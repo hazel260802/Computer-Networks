@@ -1,0 +1,9 @@
+Link tải sách tham khảo
+
+https://www.cs.sjtu.edu.cn/~linghe.kong/CS306/Download/ComputerNetworks.pdf
+
+https://www.cs.sjtu.edu.cn/~linghe.kong/CS306/Download/ComputerNetworking.pdf
+
+https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf
+
+https://memberfiles.freewebs.com/00/88/103568800/documents/Data.And.Computer.Communications.8e.WilliamStallings.pdf
